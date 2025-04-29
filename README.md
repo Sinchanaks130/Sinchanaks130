@@ -8,12 +8,12 @@
 
 ### 👩‍💻 About Me
 
-- 💻 Completed Full-Stack Web Development Training with a focus on **Java**
+- 💻 Completed Java Full-Stack Development Training with a focus on **Java**
 - 🎨 Skilled in crafting **responsive** and **user-friendly** web interfaces using HTML5, CSS3, JavaScript
-- 🗄️ Proficient in **SQL** and backend technologies including **JSP**, **Servlets**, and **MySQL**
-- 🔧 Experienced with tools like **Git**, **GitHub**, and **VS Code**
+- 🗄️ Proficient in **SQL** and backend technologies including **MySQL**
+- 🔧 Experienced with tools like **Git**, **GitHub**, **Microsoft Office (Excel, Word)** and **VS Code**
 - 🎯 **Goal for 2025**: Begin my professional journey as a confident, capable **Full-Stack Java Developer**
-- 💡 _"Driven by code, fueled by curiosity — I believe technology can build the future, and I’m ready to help shape it."_
+- 💡 **_"Driven by code, fueled by curiosity — I believe technology can build the future, and I’m ready to help shape it."_**
 
 ---
 
