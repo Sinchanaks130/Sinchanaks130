@@ -1,5 +1,5 @@
 <!-- Centered Header -->
-<h2 align="center">Hi there! 👋 I'm <span style="color:#00ADEF;">SINCHANA KS</span></h2>
+<h1 align="center">Hi there! 👋 I'm <span style="color:#00ADEF;">SINCHANA KS</span></h1>
 <p align="center">
   🔧 𝙎𝙠𝙞𝙡𝙡𝙚𝙙 𝙅𝙖𝙫𝙖 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | ✨ 𝙁𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝙒𝙚𝙗 𝙄𝙣𝙣𝙤𝙫𝙖𝙩𝙞𝙤𝙣 | 🚀 𝙍𝙚𝙖𝙙𝙮 𝙩𝙤 𝙇𝙖𝙪𝙣𝙘𝙝 𝙈𝙮 𝙄𝙏 𝘾𝙖𝙧𝙚𝙚𝙧
 </p>
