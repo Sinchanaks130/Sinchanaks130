@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Sinchanaks130/Sinchanaks130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Hi there! 👋 I'm [Your Name]</strong><br>
+  🚀 Aspiring Software Developer | 💻 Passionate about Tech & Problem Solving
+</p>
+---
+💻 I’ve completed full-stack web development training with a strong focus on Java  
+🎨 Skilled in modern web design and front-end technologies for building responsive, user-friendly interfaces  
+🗄️ Proficient in SQL and backend development using relational databases  
+🎯 2025 Goal: Begin my professional journey in the IT industry as a confident and capable full-stack Java developer  
+💡 "Driven by code, fueled by curiosity — I believe technology can build the future, and I’m ready to help shape it."
+---
